@@ -1,5 +1,7 @@
 # K12 Hunar — Scholarship Management CRM 
 
+**Live Demo Link:** [https://k12-hunar-scholarship-crm-one.vercel.app/](https://k12-hunar-scholarship-crm-one.vercel.app/)
+  
 Hi! This is my frontend demo submission for the **K12 Hunar Full-Stack Development Internship Assessment**.
 
 I built a simple, responsive dashboard for managing state scholarships, featuring real-time status updates, cross-state filtering, an add/edit form workflow, and a functional preview showing how these scholarships look to students.
